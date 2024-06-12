@@ -1,1162 +1,1584 @@
 {
-  "Constituencies": [
+  "constituencies": [
     {
+      "county_id": 1,
       "constituency_id": 1,
       "name": "CHANGAMWE"
     },
     {
+      "county_id": 1,
       "constituency_id": 2,
       "name": "JOMVU"
     },
     {
+      "county_id": 1,
       "constituency_id": 3,
       "name": "KISAUNI"
     },
     {
+      "county_id": 1,
       "constituency_id": 4,
       "name": "NYALI"
     },
     {
+      "county_id": 1,
       "constituency_id": 5,
       "name": "LIKONI"
     },
     {
+      "county_id": 1,
       "constituency_id": 6,
       "name": "MVITA"
     },
     {
+      "county_id": 2,
       "constituency_id": 7,
       "name": "MSAMBWENI"
     },
     {
+      "county_id": 2,
       "constituency_id": 8,
       "name": "LUNGALUNGA"
     },
     {
+      "county_id": 2,
       "constituency_id": 9,
       "name": "MATUGA"
     },
     {
+      "county_id": 2,
       "constituency_id": 10,
       "name": "KINANGO"
     },
     {
+      "county_id": 3,
       "constituency_id": 11,
       "name": "KILIFI NORTH"
     },
     {
+      "county_id": 3,
       "constituency_id": 12,
       "name": "KILIFI SOUTH"
     },
     {
+      "county_id": 3,
       "constituency_id": 13,
       "name": "KALOLENI"
     },
+
     {
+      "county_id": 3,
       "constituency_id": 14,
       "name": "RABAI"
     },
     {
+      "county_id": 3,
       "constituency_id": 15,
       "name": "GANZE"
     },
     {
+      "county_id": 3,
       "constituency_id": 16,
       "name": "MALINDI"
     },
     {
+      "county_id": 3,
       "constituency_id": 17,
       "name": "MAGARINI"
     },
     {
+      "county_id": 4,
       "constituency_id": 18,
       "name": "GARSEN"
     },
     {
+      "county_id": 4,
       "constituency_id": 19,
       "name": "GALOLE"
     },
     {
+      "county_id": 4,
       "constituency_id": 20,
       "name": "BURA"
     },
     {
+      "county_id": 5,
       "constituency_id": 21,
       "name": "LAMU EAST"
     },
     {
+      "county_id": 5,
       "constituency_id": 22,
       "name": "LAMU WEST"
     },
     {
+      "county_id": 6,
       "constituency_id": 23,
       "name": "TAVETA"
     },
     {
+      "county_id": 6,
       "constituency_id": 24,
       "name": "WUNDANYI"
     },
     {
+      "county_id": 6,
       "constituency_id": 25,
       "name": "MWATATE"
     },
     {
+      "county_id": 6,
       "constituency_id": 26,
       "name": "VOI"
     },
     {
+      "county_id": 7,
       "constituency_id": 27,
       "name": "GARISSA TOWNSHIP"
     },
+
     {
+      "county_id": 7,
       "constituency_id": 28,
       "name": "BALAMBALA"
     },
+
     {
+      "county_id": 7,
       "constituency_id": 29,
       "name": "LAGDERA"
     },
+
     {
+      "county_id": 7,
       "constituency_id": 30,
       "name": "DADAAB"
     },
+
     {
+      "county_id": 7,
       "constituency_id": 31,
       "name": "FAFI"
     },
+
     {
+      "county_id": 7,
       "constituency_id": 32,
       "name": "IJARA"
     },
+
     {
+      "county_id": 8,
       "constituency_id": 33,
       "name": "WAJIR NORTH"
     },
+
     {
+      "county_id": 8,
       "constituency_id": 34,
       "name": "WAJIR EAST"
     },
+
     {
+      "county_id": 8,
       "constituency_id": 35,
       "name": "TARBAJ"
     },
+
     {
+      "county_id": 8,
       "constituency_id": 36,
       "name": "WAJIR WEST"
     },
+
     {
+      "county_id": 8,
       "constituency_id": 37,
       "name": "ELDAS"
     },
+
     {
+      "county_id": 8,
       "constituency_id": 38,
       "name": "WAJIR SOUTH"
     },
+
     {
+      "county_id": 9,
       "constituency_id": 39,
       "name": "MANDERA WEST"
     },
     {
+      "county_id": 9,
       "constituency_id": 40,
       "name": "BANISSA"
     },
+
     {
+      "county_id": 9,
       "constituency_id": 41,
       "name": "MANDERA NORTH"
     },
+
     {
+      "county_id": 9,
       "constituency_id": 42,
       "name": "MANDERA SOUTH"
     },
+
     {
+      "county_id": 9,
       "constituency_id": 43,
       "name": "MANDERA EAST"
     },
+
     {
+      "county_id": 9,
       "constituency_id": 44,
       "name": "LAFEY"
     },
+
     {
+      "county_id": 10,
       "constituency_id": 45,
       "name": "MOYALE"
     },
+
     {
+      "county_id": 10,
       "constituency_id": 46,
       "name": "NORTH HORR"
     },
+
     {
+      "county_id": 10,
       "constituency_id": 47,
       "name": "SAKU"
     },
+
     {
+      "county_id": 10,
       "constituency_id": 48,
       "name": "LAISAMIS"
     },
+
     {
+      "county_id": 11,
       "constituency_id": 49,
       "name": "ISIOLO NORTH"
     },
+
     {
+      "county_id": 11,
       "constituency_id": 50,
       "name": "ISIOLO SOUTH"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 51,
       "name": "IGEMBE SOUTH"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 52,
       "name": "IGEMBE CENTRAL"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 53,
       "name": "IGEMBE NORTH"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 54,
       "name": "TIGANIA WEST"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 55,
       "name": "TIGANIA EAST"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 56,
       "name": "NORTH IMENTI"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 57,
       "name": "BUURI"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 58,
       "name": "CENTRAL IMENTI"
     },
+
     {
+      "county_id": 12,
       "constituency_id": 59,
       "name": "SOUTH IMENTI"
     },
+
     {
+      "county_id": 13,
       "constituency_id": 60,
       "name": "MAARA"
     },
+
     {
+      "county_id": 13,
       "constituency_id": 61,
       "name": "CHUKA/IGAMBANG'OM"
     },
+
     {
+      "county_id": 13,
       "constituency_id": 62,
       "name": "THARAKA"
     },
+
     {
+      "county_id": 14,
       "constituency_id": 63,
       "name": "MANYATTA"
     },
+
     {
+      "county_id": 14,
       "constituency_id": 64,
       "name": "RUNYENJES"
     },
+
     {
+      "county_id": 14,
       "constituency_id": 65,
       "name": "MBEERE SOUTH"
     },
+
     {
+      "county_id": 14,
       "constituency_id": 66,
       "name": "MBEERE NORTH"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 67,
       "name": "MWINGI NORTH"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 68,
       "name": "MWINGI WEST"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 69,
       "name": "MWINGI CENTRAL"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 70,
       "name": "KITUI WEST"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 71,
       "name": "KITUI RURAL"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 72,
       "name": "KITUI CENTRAL"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 73,
       "name": "KITUI EAST"
     },
+
     {
+      "county_id": 15,
       "constituency_id": 74,
       "name": "KITUI SOUTH"
     },
+
     {
+      "county_id": 16,
       "constituency_id": 75,
       "name": "MASINGA"
     },
     {
+      "county_id": 16,
       "constituency_id": 76,
       "name": "YATTA"
     },
+
     {
+      "county_id": 16,
       "constituency_id": 77,
       "name": "KANGUNDO"
     },
+
     {
+      "county_id": 16,
       "constituency_id": 78,
       "name": "MATUNGULU"
     },
+
     {
+      "county_id": 16,
       "constituency_id": 79,
       "name": "KATHIANI"
     },
+
     {
+      "county_id": 16,
       "constituency_id": 80,
       "name": "MAVOKO"
     },
+
     {
+      "county_id": 16,
       "constituency_id": 81,
       "name": "MACHAKOS TOWN"
     },
+
     {
+      "county_id": 16,
       "constituency_id": 82,
       "name": "MWALA"
     },
+
     {
+      "county_id": 17,
       "constituency_id": 83,
       "name": "MBOONI"
     },
+
     {
+      "county_id": 17,
       "constituency_id": 84,
       "name": "KILOME"
     },
+
     {
+      "county_id": 17,
       "constituency_id": 85,
       "name": "KAITI"
     },
+
     {
+      "county_id": 17,
       "constituency_id": 86,
       "name": "MAKUENI"
     },
+
     {
+      "county_id": 17,
       "constituency_id": 87,
       "name": "KIBWEZI WEST"
     },
+
     {
+      "county_id": 17,
       "constituency_id": 88,
       "name": "KIBWEZI EAST"
     },
+
     {
+      "county_id": 18,
       "constituency_id": 89,
       "name": "KINANGOP"
     },
+
     {
+      "county_id": 18,
       "constituency_id": 90,
       "name": "KIPIPIRI"
     },
+
     {
+      "county_id": 18,
       "constituency_id": 91,
       "name": "OL KALOU"
     },
+
     {
+      "county_id": 18,
       "constituency_id": 92,
       "name": "OL JOROK"
     },
+
     {
+      "county_id": 18,
       "constituency_id": 93,
       "name": "NDARAGWA"
     },
+
     {
+      "county_id": 19,
       "constituency_id": 94,
       "name": "TETU"
     },
     {
+      "county_id": 19,
+      "constituency_id": 94,
+      "name": "TETU"
+    },
+    {
+      "county_id": 19,
+      "constituency_id": 94,
+      "name": "TETU"
+    },
+    {
+      "county_id": 19,
       "constituency_id": 95,
       "name": "KIENI"
     },
+
     {
+      "county_id": 19,
       "constituency_id": 96,
       "name": "MATHIRA"
     },
+
     {
+      "county_id": 19,
       "constituency_id": 97,
       "name": "OTHAYA"
     },
+
     {
+      "county_id": 19,
       "constituency_id": 98,
       "name": "MUKURWEINI"
     },
+
     {
+      "county_id": 19,
       "constituency_id": 99,
       "name": "NYERI TOWN"
     },
+
     {
+      "county_id": 20,
       "constituency_id": 100,
       "name": "MWEA"
     },
+
     {
+      "county_id": 20,
       "constituency_id": 101,
       "name": "GICHUGU"
     },
+
     {
+      "county_id": 20,
       "constituency_id": 102,
       "name": "NDIA"
     },
+
     {
+      "county_id": 20,
       "constituency_id": 103,
       "name": "KIRINYAGA CENTRAL"
     },
+
     {
+      "county_id": 21,
       "constituency_id": 104,
       "name": "KANGEMA"
     },
+
     {
+      "county_id": 21,
       "constituency_id": 105,
       "name": "MATHIOYA"
     },
+
     {
+      "county_id": 21,
       "constituency_id": 106,
       "name": "KIHARU"
     },
+
     {
+      "county_id": 21,
       "constituency_id": 107,
       "name": "KIGUMO"
     },
+
     {
+      "county_id": 21,
       "constituency_id": 108,
       "name": "MARAGWA"
     },
+
     {
+      "county_id": 21,
       "constituency_id": 109,
       "name": "KANDARA"
     },
+
     {
+      "county_id": 21,
       "constituency_id": 110,
       "name": "GATANGA"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 111,
       "name": "GATUNDU SOUTH"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 112,
       "name": "GATUNDU NORTH"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 113,
       "name": "JUJA"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 114,
       "name": "THIKA TOWN"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 115,
       "name": "RUIRU"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 116,
       "name": "GITHUNGURI"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 117,
       "name": "KIAMBU"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 118,
       "name": "KIAMBAA"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 119,
       "name": "KABETE"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 120,
       "name": "KIKUYU"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 121,
       "name": "LIMURU"
     },
+
     {
+      "county_id": 22,
       "constituency_id": 122,
       "name": "LARI"
     },
+
     {
+      "county_id": 23,
       "constituency_id": 123,
       "name": "TURKANA NORTH"
     },
+
     {
+      "county_id": 23,
       "constituency_id": 124,
       "name": "TURKANA WEST"
     },
+
     {
+      "county_id": 23,
       "constituency_id": 125,
       "name": "TURKANA CENTRAL"
     },
+
     {
+      "county_id": 23,
       "constituency_id": 126,
       "name": "LOIMA"
     },
+
     {
+      "county_id": 23,
       "constituency_id": 127,
       "name": "TURKANA SOUTH"
     },
+
     {
+      "county_id": 23,
       "constituency_id": 128,
       "name": "TURKANA EAST"
     },
+
     {
+      "county_id": 24,
       "constituency_id": 129,
       "name": "KAPENGURIA"
     },
+
     {
+      "county_id": 24,
       "constituency_id": 130,
       "name": "SIGOR"
     },
+
     {
+      "county_id": 24,
       "constituency_id": 131,
       "name": "KACHELIBA"
     },
+
     {
+      "county_id": 24,
       "constituency_id": 132,
       "name": "POKOT SOUTH"
     },
+
     {
+      "county_id": 25,
       "constituency_id": 133,
       "name": "SAMBURU WEST"
     },
+
     {
+      "county_id": 25,
       "constituency_id": 134,
       "name": "SAMBURU NORTH"
     },
+
     {
+      "county_id": 25,
       "constituency_id": 135,
       "name": "SAMBURU EAST"
     },
+
     {
+      "county_id": 26,
       "constituency_id": 136,
       "name": "KWANZA"
     },
+
     {
+      "county_id": 26,
       "constituency_id": 137,
       "name": "ENDEBESS"
     },
+
     {
+      "county_id": 26,
       "constituency_id": 138,
       "name": "SABOTI"
     },
+
     {
+      "county_id": 26,
       "constituency_id": 139,
       "name": "KIMININI"
     },
+
     {
+      "county_id": 26,
       "constituency_id": 140,
       "name": "CHERANGANY"
     },
+
     {
+      "county_id": 27,
       "constituency_id": 141,
       "name": "SOY"
     },
+
     {
+      "county_id": 27,
       "constituency_id": 142,
       "name": "TURBO"
     },
+
     {
+      "county_id": 27,
       "constituency_id": 143,
       "name": "MOIBEN"
     },
+
     {
+      "county_id": 27,
       "constituency_id": 144,
       "name": "AINABKOI"
     },
     {
+      "county_id": 27,
       "constituency_id": 145,
       "name": "KAPSERET"
     },
+
     {
+      "county_id": 27,
       "constituency_id": 146,
       "name": "KESSES"
     },
+
     {
+      "county_id": 28,
       "constituency_id": 147,
       "name": "MARAKWET EAST"
     },
+
     {
+      "county_id": 28,
       "constituency_id": 148,
       "name": "MARAKWET WEST"
     },
+
     {
+      "county_id": 28,
       "constituency_id": 149,
       "name": "KEIYO NORTH"
     },
+
     {
+      "county_id": 28,
       "constituency_id": 150,
       "name": "KEIYO SOUTH"
     },
+
     {
+      "county_id": 29,
       "constituency_id": 151,
       "name": "TINDERET"
     },
     {
+      "county_id": 29,
       "constituency_id": 152,
       "name": "ALDAI"
     },
     {
+      "county_id": 29,
       "constituency_id": 153,
       "name": "NANDI HILLS"
     },
     {
+      "county_id": 29,
       "constituency_id": 154,
       "name": "CHESUMEI"
     },
     {
+      "county_id": 29,
       "constituency_id": 155,
       "name": "EMGWEN"
     },
     {
+      "county_id": 29,
       "constituency_id": 156,
       "name": "MOSOP"
     },
     {
+      "county_id": 30,
       "constituency_id": 157,
       "name": "TIATY"
     },
     {
+      "county_id": 30,
       "constituency_id": 158,
-      "name": "BARINGO NORTH"
+      "name": "BARINGO  NORTH"
     },
     {
+      "county_id": 30,
       "constituency_id": 159,
       "name": "BARINGO CENTRAL"
     },
     {
+      "county_id": 30,
       "constituency_id": 160,
       "name": "BARINGO SOUTH"
     },
     {
+      "county_id": 30,
       "constituency_id": 161,
       "name": "MOGOTIO"
     },
     {
+      "county_id": 30,
       "constituency_id": 162,
       "name": "ELDAMA RAVINE"
     },
     {
+      "county_id": 31,
       "constituency_id": 163,
       "name": "LAIKIPIA WEST"
     },
     {
+      "county_id": 31,
       "constituency_id": 164,
       "name": "LAIKIPIA EAST"
     },
     {
+      "county_id": 31,
       "constituency_id": 165,
       "name": "LAIKIPIA NORTH"
     },
     {
+      "county_id": 32,
       "constituency_id": 166,
       "name": "MOLO"
     },
     {
+      "county_id": 32,
       "constituency_id": 167,
       "name": "NJORO"
     },
     {
+      "county_id": 32,
       "constituency_id": 168,
       "name": "NAIVASHA"
     },
     {
+      "county_id": 32,
       "constituency_id": 169,
       "name": "GILGIL"
     },
     {
+      "county_id": 32,
       "constituency_id": 170,
       "name": "KURESOI SOUTH"
     },
     {
+      "county_id": 32,
       "constituency_id": 171,
       "name": "KURESOI NORTH"
     },
     {
+      "county_id": 32,
       "constituency_id": 172,
       "name": "SUBUKIA"
     },
     {
+      "county_id": 32,
       "constituency_id": 173,
       "name": "RONGAI"
     },
     {
+      "county_id": 32,
       "constituency_id": 174,
       "name": "BAHATI"
     },
     {
+      "county_id": 32,
       "constituency_id": 175,
       "name": "NAKURU TOWN WEST"
     },
     {
+      "county_id": 32,
       "constituency_id": 176,
       "name": "NAKURU TOWN EAST"
     },
     {
+      "county_id": 33,
       "constituency_id": 177,
       "name": "KILGORIS"
     },
     {
+      "county_id": 33,
       "constituency_id": 178,
       "name": "EMURUA DIKIRR"
     },
     {
+      "county_id": 33,
       "constituency_id": 179,
       "name": "NAROK NORTH"
     },
     {
+      "county_id": 33,
       "constituency_id": 180,
       "name": "NAROK EAST"
     },
     {
+      "county_id": 33,
       "constituency_id": 181,
       "name": "NAROK SOUTH"
     },
     {
+      "county_id": 33,
       "constituency_id": 182,
       "name": "NAROK WEST"
     },
     {
+      "county_id": 34,
       "constituency_id": 183,
       "name": "KAJIADO NORTH"
     },
     {
+      "county_id": 34,
       "constituency_id": 184,
       "name": "KAJIADO CENTRAL"
     },
     {
+      "county_id": 34,
       "constituency_id": 185,
       "name": "KAJIADO EAST"
     },
     {
+      "county_id": 34,
       "constituency_id": 186,
       "name": "KAJIADO WEST"
     },
     {
+      "county_id": 34,
       "constituency_id": 187,
       "name": "KAJIADO SOUTH"
     },
     {
+      "county_id": 35,
       "constituency_id": 188,
       "name": "KIPKELION EAST"
     },
     {
+      "county_id": 35,
       "constituency_id": 189,
       "name": "KIPKELION WEST"
     },
     {
+      "county_id": 35,
       "constituency_id": 190,
       "name": "AINAMOI"
     },
     {
+      "county_id": 35,
       "constituency_id": 191,
       "name": "BURETI"
     },
     {
+      "county_id": 35,
       "constituency_id": 192,
       "name": "BELGUT"
     },
     {
+      "county_id": 35,
       "constituency_id": 193,
       "name": "SIGOWET/SOIN"
     },
     {
+      "county_id": 36,
       "constituency_id": 194,
       "name": "SOTIK"
     },
     {
+      "county_id": 36,
       "constituency_id": 195,
       "name": "CHEPALUNGU"
     },
     {
+      "county_id": 36,
       "constituency_id": 196,
       "name": "BOMET EAST"
     },
     {
+      "county_id": 36,
       "constituency_id": 197,
       "name": "BOMET CENTRAL"
     },
     {
+      "county_id": 36,
       "constituency_id": 198,
       "name": "KONOIN"
     },
     {
+      "county_id": 37,
       "constituency_id": 199,
       "name": "LUGARI"
     },
     {
+      "county_id": 37,
       "constituency_id": 200,
       "name": "LIKUYANI"
     },
     {
+      "county_id": 37,
       "constituency_id": 201,
       "name": "MALAVA"
     },
     {
+      "county_id": 37,
       "constituency_id": 202,
       "name": "LURAMBI"
     },
     {
+      "county_id": 37,
       "constituency_id": 203,
       "name": "NAVAKHOLO"
     },
     {
+      "county_id": 37,
       "constituency_id": 204,
       "name": "MUMIAS WEST"
     },
     {
+      "county_id": 37,
       "constituency_id": 205,
       "name": "MUMIAS EAST"
     },
     {
+      "county_id": 37,
       "constituency_id": 206,
       "name": "MATUNGU"
     },
     {
+      "county_id": 37,
       "constituency_id": 207,
       "name": "BUTERE"
     },
     {
+      "county_id": 37,
       "constituency_id": 208,
       "name": "KHWISERO"
     },
     {
+      "county_id": 37,
       "constituency_id": 209,
       "name": "SHINYALU"
     },
     {
+      "county_id": 37,
       "constituency_id": 210,
       "name": "IKOLOMANI"
     },
     {
+      "county_id": 38,
       "constituency_id": 211,
       "name": "VIHIGA"
     },
     {
+      "county_id": 38,
       "constituency_id": 212,
       "name": "SABATIA"
     },
     {
+      "county_id": 38,
       "constituency_id": 213,
       "name": "HAMISI"
     },
     {
+      "county_id": 38,
       "constituency_id": 214,
       "name": "LUANDA"
     },
     {
+      "county_id": 38,
       "constituency_id": 215,
       "name": "EMUHAYA"
     },
     {
+      "county_id": 39,
       "constituency_id": 216,
       "name": "MT.ELGON"
     },
     {
+      "county_id": 39,
       "constituency_id": 217,
       "name": "SIRISIA"
     },
     {
+      "county_id": 39,
       "constituency_id": 218,
       "name": "KABUCHAI"
     },
     {
+      "county_id": 39,
       "constituency_id": 219,
       "name": "BUMULA"
     },
     {
+      "county_id": 39,
       "constituency_id": 220,
       "name": "KANDUYI"
     },
     {
+      "county_id": 39,
       "constituency_id": 221,
       "name": "WEBUYE EAST"
     },
     {
+      "county_id": 39,
       "constituency_id": 222,
       "name": "WEBUYE WEST"
     },
     {
+      "county_id": 39,
       "constituency_id": 223,
       "name": "KIMILILI"
     },
     {
+      "county_id": 39,
       "constituency_id": 224,
       "name": "TONGAREN"
     },
     {
+      "county_id": 40,
       "constituency_id": 225,
       "name": "TESO NORTH"
     },
     {
+      "county_id": 40,
       "constituency_id": 226,
       "name": "TESO SOUTH"
     },
     {
+      "county_id": 40,
       "constituency_id": 227,
       "name": "NAMBALE"
     },
     {
+      "county_id": 40,
       "constituency_id": 228,
       "name": "MATAYOS"
     },
     {
+      "county_id": 40,
       "constituency_id": 229,
       "name": "BUTULA"
     },
     {
+      "county_id": 40,
       "constituency_id": 230,
       "name": "FUNYULA"
     },
     {
+      "county_id": 40,
       "constituency_id": 231,
       "name": "BUDALANGI"
     },
     {
+      "county_id": 41,
       "constituency_id": 232,
       "name": "UGENYA"
     },
     {
+      "county_id": 41,
       "constituency_id": 233,
       "name": "UGUNJA"
     },
     {
+      "county_id": 41,
       "constituency_id": 234,
       "name": "ALEGO USONGA"
     },
     {
+      "county_id": 41,
       "constituency_id": 235,
       "name": "GEM"
     },
     {
+      "county_id": 41,
       "constituency_id": 236,
       "name": "BONDO"
     },
     {
+      "county_id": 41,
       "constituency_id": 237,
       "name": "RARIEDA"
     },
     {
+      "county_id": 42,
       "constituency_id": 238,
       "name": "KISUMU EAST"
     },
     {
+      "county_id": 42,
       "constituency_id": 239,
       "name": "KISUMU WEST"
     },
     {
+      "county_id": 42,
       "constituency_id": 240,
       "name": "KISUMU CENTRAL"
     },
     {
+      "county_id": 42,
       "constituency_id": 241,
       "name": "SEME"
     },
     {
+      "county_id": 42,
       "constituency_id": 242,
       "name": "NYANDO"
     },
     {
+      "county_id": 42,
       "constituency_id": 243,
       "name": "MUHORONI"
     },
     {
+      "county_id": 42,
       "constituency_id": 244,
       "name": "NYAKACH"
     },
     {
+      "county_id": 43,
       "constituency_id": 245,
       "name": "KASIPUL"
     },
     {
+      "county_id": 43,
       "constituency_id": 246,
       "name": "KABONDO KASIPUL"
     },
     {
+      "county_id": 43,
       "constituency_id": 247,
       "name": "KARACHUONYO"
     },
     {
+      "county_id": 43,
       "constituency_id": 248,
       "name": "RANGWE"
     },
     {
+      "county_id": 43,
       "constituency_id": 249,
       "name": "HOMA BAY TOWN"
     },
     {
+      "county_id": 43,
       "constituency_id": 250,
       "name": "NDHIWA"
     },
     {
+      "county_id": 43,
       "constituency_id": 251,
       "name": "MBITA"
     },
     {
+      "county_id": 43,
       "constituency_id": 252,
       "name": "SUBA"
     },
     {
+      "county_id": 44,
       "constituency_id": 253,
       "name": "RONGO"
     },
     {
+      "county_id": 44,
       "constituency_id": 254,
       "name": "AWENDO"
     },
     {
+      "county_id": 44,
       "constituency_id": 255,
       "name": "SUNA EAST"
     },
+
     {
+      "county_id": 44,
       "constituency_id": 256,
       "name": "SUNA WEST"
     },
     {
+      "county_id": 44,
       "constituency_id": 257,
       "name": "URIRI"
     },
     {
+      "county_id": 44,
       "constituency_id": 258,
       "name": "NYATIKE"
     },
     {
+      "county_id": 44,
       "constituency_id": 259,
       "name": "KURIA WEST"
     },
     {
+      "county_id": 44,
       "constituency_id": 260,
       "name": "KURIA EAST"
     },
     {
+      "county_id": 45,
       "constituency_id": 261,
       "name": "BONCHARI"
     },
     {
+      "county_id": 45,
       "constituency_id": 262,
       "name": "SOUTH MUGIRANGO"
     },
     {
+      "county_id": 45,
       "constituency_id": 263,
       "name": "BOMACHOGE BORABU"
     },
     {
+      "county_id": 45,
       "constituency_id": 264,
       "name": "BOBASI"
     },
     {
+      "county_id": 45,
       "constituency_id": 265,
       "name": "BOMACHOGE CHACHE"
     },
     {
+      "county_id": 45,
       "constituency_id": 266,
       "name": "NYARIBARI MASABA"
     },
     {
+      "county_id": 45,
       "constituency_id": 267,
       "name": "NYARIBARI CHACHE"
     },
     {
+      "county_id": 45,
       "constituency_id": 268,
       "name": "KITUTU CHACHE NORTH"
     },
     {
+      "county_id": 45,
       "constituency_id": 269,
       "name": "KITUTU CHACHE SOUTH"
     },
     {
+      "county_id": 46,
       "constituency_id": 270,
       "name": "KITUTU MASABA"
     },
     {
+      "county_id": 46,
       "constituency_id": 271,
       "name": "WEST MUGIRANGO"
     },
     {
+      "county_id": 46,
       "constituency_id": 272,
       "name": "NORTH MUGIRANGO"
     },
     {
+      "county_id": 46,
       "constituency_id": 273,
       "name": "BORABU"
     },
     {
+      "county_id": 47,
       "constituency_id": 274,
       "name": "WESTLANDS"
     },
     {
+      "county_id": 47,
       "constituency_id": 275,
       "name": "DAGORETTI NORTH"
     },
     {
+      "county_id": 47,
       "constituency_id": 276,
       "name": "DAGORETTI SOUTH"
     },
     {
+      "county_id": 47,
       "constituency_id": 277,
       "name": "LANGATA"
     },
     {
+      "county_id": 47,
       "constituency_id": 278,
       "name": "KIBRA"
     },
     {
+      "county_id": 47,
       "constituency_id": 279,
       "name": "ROYSAMBU"
     },
     {
+      "county_id": 47,
       "constituency_id": 280,
       "name": "KASARANI"
     },
     {
+      "county_id": 47,
       "constituency_id": 281,
       "name": "RUARAKA"
     },
     {
+      "county_id": 47,
       "constituency_id": 282,
       "name": "EMBAKASI SOUTH"
     },
     {
+      "county_id": 47,
       "constituency_id": 283,
       "name": "EMBAKASI NORTH"
     },
     {
+      "county_id": 47,
       "constituency_id": 284,
       "name": "EMBAKASI CENTRAL"
     },
     {
+      "county_id": 47,
       "constituency_id": 285,
       "name": "EMBAKASI EAST"
     },
     {
+      "county_id": 47,
       "constituency_id": 286,
       "name": "EMBAKASI WEST"
     },
     {
+      "county_id": 47,
       "constituency_id": 287,
       "name": "MAKADARA"
     },
     {
+      "county_id": 47,
       "constituency_id": 288,
       "name": "KAMUKUNJI"
     },
     {
+      "county_id": 47,
       "constituency_id": 289,
       "name": "STAREHE"
     },
     {
+      "county_id": 47,
       "constituency_id": 290,
       "name": "MATHARE"
     }
